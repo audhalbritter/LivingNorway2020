@@ -1,5 +1,5 @@
 ---
-title: Open and reproducible science
+title: Open and reproducible science.
 
 author: |
   | Cotner S, Egelkraut DD $^1$, Halbritter A $^1$, Law E, Lane AK, Nater CR, 
